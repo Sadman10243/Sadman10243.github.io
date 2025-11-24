@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sadman Labib Chowdhury | Filmmaker & Visual Storyteller</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">SADMAN LABIB CHOWDHURY</h1>
+            <h2 class="hero-tagline">Filmmaker | Editor | Visual Storyteller</h2>
+            <a href="#featured-work" class="cta-button">View Featured Projects</a>
+        </div>
+    </header>
+
+    <section id="featured-work" class="section featured-work">
+        <h3 class="section-title accent-amber">FEATURED PROJECTS</h3>
+        <div class="project-grid">
+
+            <div class="project-card">
+                <a href="https://youtube.com/shorts/LMMLYm10TY0?si=Fd1pV0y9jqDU--ul" target="_blank" class="project-link">
+                    <div class="project-visual placeholder-1"></div>
+                    <div class="card-overlay">
+                        <i class="fas fa-play"></i>
+                    </div>
+                </a>
+                <div class="project-details">
+                    <h4 class="project-title accent-blue">জীবন বড়ই বৈচিত্র্যময়</h4>
+                    <p class="project-description">
+                        **A brief, compelling description of the project's concept, my role (Editor/Cinematographer), and the technical challenges overcome.** This piece required meticulous color grading and sound design to achieve the desired melancholic mood.
+                    </p>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <a href="https://youtube.com/shorts/RE7IiR7jceg?si=HHNkhwS_F5JilPMv" target="_blank" class="project-link">
+                    <div class="project-visual placeholder-2"></div>
+                    <div class="card-overlay">
+                        <i class="fas fa-play"></i>
+                    </div>
+                </a>
+                <div class="project-details">
+                    <h4 class="project-title accent-blue">Movie with friends.</h4>
+                    <p class="project-description">
+                        **A description detailing the mood, technical execution, and the final impact of this project.** Served as Cinematographer and leveraged natural lighting to create a raw, documentary-style look, capturing genuine, high-energy moments.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="section about">
+        <h3 class="section-title accent-amber">ABOUT SADMAN</h3>
+        <div class="about-content">
+            <p>A rising talent in Film and Media, focused on leveraging technical skill and academic foundation to create compelling visual narratives. My passion lies in crafting high-quality content, from short films to promotional visuals.</p>
+            
+            <div class="academic-data">
+                <div class="pursuit">
+                    <i class="fas fa-graduation-cap accent-blue"></i>
+                    <p>Current Pursuit: **Bachelor of Arts in Film and Media Studies**</p>
+                </div>
+                <div class="cgpa-badge">
+                    <div class="cgpa-text">
+                        <span class="cgpa-score">3.85</span>
+                        <span class="cgpa-label">CGPA</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section skills">
+        <h3 class="section-title accent-amber">SKILLSET SHOWCASE</h3>
+        <div class="skills-grid">
+            
+            <div class="skill-card">
+                <i class="fas fa-video skill-icon"></i>
+                <h4 class="skill-name">Video Editing</h4>
+            </div>
+
+            <div class="skill-card">
+                <i class="fas fa-camera skill-icon"></i>
+                <h4 class="skill-name">Photo Editing</h4>
+            </div>
+
+            <div class="skill-card">
+                <i class="fas fa-film skill-icon"></i>
+                <h4 class="skill-name">Cinematography</h4>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="section leadership">
+        <h3 class="section-title accent-amber">LEADERSHIP & ENGAGEMENT</h3>
+        <ul class="leadership-list">
+            <li><span class="bullet accent-blue"></span> Co-Coordinator, Stamford Photographic Society</li>
+            <li><span class="bullet accent-blue"></span> Former Captain, Wills Little Flower School and College Debate Team</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sadman Labib Chowdhury. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
